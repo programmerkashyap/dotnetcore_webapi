@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Himanshu Kashyap\\source\\repos\\MyWebApi1\\MyWebApi1\\wwwroot\\uploads\\20241129151104_Untitled.png",
+      "PackagePath": "staticwebassets\\uploads\\20241129151104_Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Kashyap\\source\\repos\\MyWebApi1\\MyWebApi1\\wwwroot\\uploads\\20241129154609_Placement Data 2023.pdf",
+      "PackagePath": "staticwebassets\\uploads\\20241129154609_Placement Data 2023.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Kashyap\\source\\repos\\MyWebApi1\\MyWebApi1\\wwwroot\\uploads\\98da6d48-6bae-49c1-a9a9-682b8db912bd_Untitled.png",
+      "PackagePath": "staticwebassets\\uploads\\98da6d48-6bae-49c1-a9a9-682b8db912bd_Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Kashyap\\source\\repos\\MyWebApi1\\MyWebApi1\\wwwroot\\uploads\\Untitled.png",
+      "PackagePath": "staticwebassets\\uploads\\Untitled.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyWebApi1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyWebApi1.props",
+      "PackagePath": "build\\MyWebApi1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyWebApi1.props",
+      "PackagePath": "buildMultiTargeting\\MyWebApi1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyWebApi1.props",
+      "PackagePath": "buildTransitive\\MyWebApi1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
